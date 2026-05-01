@@ -69,7 +69,7 @@ Git, GitHub, AWS (EC2), CI/CD, Postman, VS Code
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mtayyab9558&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mtayyab9558&show_icons=true&theme=radical.gif" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtayyab9558&theme=radical" />
 </p>
 
