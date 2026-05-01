@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab</h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | Problem Solver</h3>
-<img align="right" alt="Coding" width="400" src="https://chatgpt.com/s/m_69f4269f62a0819199e93146485b6617">
+<img align="right" alt="Coding" width="400" src="https://lottiefiles.com/free-animations/code /">
 
 ---
 
