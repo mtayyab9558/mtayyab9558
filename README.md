@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | Problem Solver</h3>
+<h3 align="center">Full Stack AI Engineer | React.js • Next.js • Node.js • LLMs • AI Automation • AWS • Docker</h3>
 <img align="right" alt="Coding" width="400" src="https://lottiefiles.com/free-animations/code /">
 
 ---
