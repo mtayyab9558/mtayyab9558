@@ -5,7 +5,7 @@
 ---
 
 ## 💫 About Me
-- 💻 Full Stack Developer with experience in React.js, Node.js & Python  
+- 💻 Full Stack AI Engineer with experience in React.js, Next.js, Node.js & Python  
 - 🚀 Building scalable web applications & automation solutions  
 - 🤖 Passionate about AI/ML and real-world problem solving  
 - ☁️ Experience with cloud deployment & REST API development  
