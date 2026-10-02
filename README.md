@@ -1,6 +1,6 @@
 <!-- ============================ HEADER ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:0b5ed7,100:00c6ff&height=220&section=header&text=Muhammad%20Tayyab&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Automation&descAlignY=58&descSize=20" alt="Muhammad Tayyab banner" />
+  <img src="LinkedIn_background_1584x396.png?type=waving&color=0:0f2027,50:0b5ed7,100:00c6ff&height=220&section=header&text=Muhammad%20Tayyab&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Automation&descAlignY=58&descSize=20" alt="Muhammad Tayyab banner" />
 </p>
 
 <p align="center">
